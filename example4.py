@@ -23,11 +23,5 @@ it checks to see if any of the features of the window (buttons,
 text entry, etc) are being mainpulated.  These features are also
 called WIDGETS, and we'll see how they can be added in the next few
 files.
-
-In the rest of today's examples, we'll see how the different widgets
-can be added to the window.  There are 3 main ways to do so:
-pack() - them to make them fit in as small an area as possible
-grid() - organize them into columns and rows (like a grid)
-place() - will put widgets at specific coordinates in the window
 """
 window.mainloop()

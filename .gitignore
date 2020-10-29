@@ -1,2 +1,4 @@
 .github/
 *.pyc
+test.pyc
+__pycache__/
